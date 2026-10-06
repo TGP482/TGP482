@@ -16,3 +16,5 @@
 - **[Splinter Cell: Double Agent - XBE Recomp](https://github.com/TGP482/SCDoubleAgent-XBERecomp)** - An unofficial Original Xbox version PC port of Splinter Cell: Double Agent via static recompilation.
 
 - **[BLACK - XBE Recomp](https://github.com/TGP482/BLACK-XBERecomp)** - An unofficial Original Xbox version PC port of BLACK (2006) via static recompilation.
+
+- **[Half Life 2 - XBE Recomp](https://github.com/TGP482/HalfLife2-XBERecomp)** An unofficial Original Xbox version PC port of Half Life 2 via static recompilation.
