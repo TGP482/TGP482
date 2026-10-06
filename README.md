@@ -6,6 +6,8 @@
 
 - **[Call of Duty - Pavlov Fix](https://github.com/TGP482/CallofDuty-PavlovFix)** - A patch for Call of Duty (2003) and United Offensive fixing issues and adding improvements.
 
+- **[Sniper: Ghost Warrior - Fusion Fix](https://github.com/Fusion-Fix/SniperGhostWarrior.FusionFix)** - This project aims to fix or address some issues in Sniper: Ghost Warrior
+
 ### Recompilation
 - **[Xbox XBE Recomp](https://github.com/TGP482/XboxXBE-Recomp)** - A tool for statically recompiling Original Xbox games into native executables.
 
