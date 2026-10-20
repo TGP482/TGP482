@@ -4,7 +4,7 @@
 
 - **[XIII - Mongoose Fix](https://github.com/TGP482/XIII-MongooseFix)** - A patch for XIII (2003), fixing bugs and adding improvements.
 
-- **[Sniper: Ghost Warrior - Fusion Fix](https://github.com/Fusion-Fix/SniperGhostWarrior.FusionFix)** - This project aims to fix or address some issues in Sniper: Ghost Warrior
+- **[Sniper: Ghost Warrior - Fusion Fix](https://github.com/Fusion-Fix/SniperGhostWarrior.FusionFix)** - This project aims to fix or address some issues in Sniper: Ghost Warrior.
 
 ### Recompilation
 - **[Xbox XBE Recomp](https://github.com/TGP482/XboxXBE-Recomp)** - A tool for statically recompiling Original Xbox games into native executables.
