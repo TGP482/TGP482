@@ -12,3 +12,5 @@
 - **[Splinter Cell: Double Agent - XBE Recomp](https://github.com/TGP482/SCDoubleAgent-XBERecomp)** - An unofficial Original Xbox version PC port of Splinter Cell: Double Agent via static recompilation.
 
 - **[BLACK - XBE Recomp](https://github.com/TGP482/BLACK-XBERecomp)** - An unofficial Original Xbox version PC port of BLACK (2006) via static recompilation.
+
+- **[007: From Russia With Love - XBE Recomp](https://github.com/TGP482/007FRWL-XBERecomp)** - An unofficial original Xbox version PC port of 007: From Russia With Love via static recompilation.
