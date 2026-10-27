@@ -1,5 +1,5 @@
 ## My projects
-### Game Mods
+### Mods
 - **[Far Cry 2 - Jackal Fix](https://github.com/TGP482/FC2JackalFix)** - A major patch for Far Cry 2, fixing bugs and adding gameplay improvements.
 
 - **[XIII - Mongoose Fix](https://github.com/TGP482/XIII-MongooseFix)** - A patch for XIII (2003), fixing bugs and adding improvements.
