@@ -15,6 +15,7 @@
 | **[BLACK - XBE Recomp](https://github.com/TGP482/BLACK-XBERecomp)** | An unofficial original Xbox version PC port of BLACK (2006) via static recompilation. |
 | **[007: From Russia With Love - XBE Recomp](https://github.com/TGP482/007FRWL-XBERecomp)** | An unofficial original Xbox version PC port of 007: From Russia With Love via static recompilation. |
 | **[007: Nightfire - XBE Recomp](https://github.com/TGP482/007Nightfire-XBERecomp)** | An unofficial original Xbox version PC port of 007: Nightfire via static recompilation. |
+| **[Red Dead Revolver - XBE Recomp](https://github.com/TGP482/RDR-XBERecomp)** | An unofficial original Xbox version PC port of Red Dead Revolver via static recompilation. |
 
 ### Mods
 
