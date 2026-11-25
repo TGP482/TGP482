@@ -6,7 +6,7 @@
 
 ## My projects
 
-### Recompilation
+### Original Xbox Recompilation
 
 | Project | Description |
 |---|---|
@@ -16,6 +16,13 @@
 | **[007: From Russia With Love - XBE Recomp](https://github.com/TGP482/007FRWL-XBERecomp)** | An unofficial original Xbox version PC port of 007: From Russia With Love via static recompilation. |
 | **[007: Nightfire - XBE Recomp](https://github.com/TGP482/007Nightfire-XBERecomp)** | An unofficial original Xbox version PC port of 007: Nightfire via static recompilation. |
 | **[Red Dead Revolver - XBE Recomp](https://github.com/TGP482/RDR-XBERecomp)** | An unofficial original Xbox version PC port of Red Dead Revolver via static recompilation. |
+
+### Xbox 360 Recompilation
+
+| Project | Description |
+|---|---|
+| **[Xbox 360 XEX Recomp](https://github.com/TGP482/XboxXBE-Recomp)** | A tool for statically recompiling Xbox 360 games into native executables. |
+| **[Far Cry Instincts: Predator -XEX Recomp](https://github.com/TGP482/SaintsRow-XEXRecomp)** | An unofficial PC port of Far Cry Instincts: Predator via static recompilation. |
 
 ### Mods
 
