@@ -21,7 +21,7 @@
 
 | Project | Description |
 |---|---|
-| **[Xbox 360 XEX Recomp](https://github.com/TGP482/XboxXBE-Recomp)** | A tool for statically recompiling Xbox 360 games into native executables. |
+| **[Xbox 360 XEX Recomp](https://github.com/TGP482/Xbox360XEXRecomp)** | A tool for statically recompiling Xbox 360 games into native executables. |
 | **[Far Cry Instincts: Predator - XEX Recomp](https://github.com/TGP482/SaintsRow-XEXRecomp)** | An unofficial PC port of Far Cry Instincts: Predator via static recompilation. |
 
 ### Mods
